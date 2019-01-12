@@ -1,0 +1,4 @@
+#Sat Jan 12 12:47:53 CST 2019
+base.0=G\:\\AndroidStudioProjects\\flutter_notebook_practice\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

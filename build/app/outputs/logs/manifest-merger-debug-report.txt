@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:shared_preferences] G:\AndroidStudioProjects\flutter_notebook_practice\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:intro_slider] G:\AndroidStudioProjects\flutter_notebook_practice\build\intro_slider\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] G:\AndroidStudioProjects\flutter_notebook_practice\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:multi_image_picker] G:\AndroidStudioProjects\flutter_notebook_practice\build\multi_image_picker\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:exifinterface:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\afb4453007f5b4f5176f4af198c3c94f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:17:1-33:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\840383e1d41e5d2d19b461f9fa985696\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\41cc91e76141b49a18023b83e895753d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4ea912e81418cdba7d38f33aebf5a769\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\de5f264aeefcc460e3587704e3d6de57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ef9793261efa3dc05a2dff4c2d1b0e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f2598c8f6421d3cf2275acc9ca8dac5b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fb5de103b5c6955151aeb2ae57841785\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\26080eae4961195947b8e2782ff3690d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f7bcaf05c9722f3d2e864fa1ace679fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\703b90e1d65c60f128eb8476c13ccf45\AndroidManifest.xml:17:1-22:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\750bafd7d33f6bb42b29e11b31264724\AndroidManifest.xml:1:106-7:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\0b9cfeb0c633ea9749931a0761863db0\AndroidManifest.xml:1:116-8:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3672bfa500bb904913bda3873e7fd84\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a40769cce0878b90b2129527280f0474\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\05818c0a4094b7741b5fb8e6d16f8a7d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\74d533321b315b1b7a41fb10dc75fd9a\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:1-39:12
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:27:5-31:19
+MERGED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:27:5-31:19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\750bafd7d33f6bb42b29e11b31264724\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\750bafd7d33f6bb42b29e11b31264724\AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\0b9cfeb0c633ea9749931a0761863db0\AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\0b9cfeb0c633ea9749931a0761863db0\AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:17:9-50
+	android:icon
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:16:9-57
+activity#com.example.flutternotebookpractice.MainActivity
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] G:\AndroidStudioProjects\flutter_notebook_practice\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] G:\AndroidStudioProjects\flutter_notebook_practice\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:intro_slider] G:\AndroidStudioProjects\flutter_notebook_practice\build\intro_slider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:intro_slider] G:\AndroidStudioProjects\flutter_notebook_practice\build\intro_slider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] G:\AndroidStudioProjects\flutter_notebook_practice\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] G:\AndroidStudioProjects\flutter_notebook_practice\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] G:\AndroidStudioProjects\flutter_notebook_practice\build\multi_image_picker\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:multi_image_picker] G:\AndroidStudioProjects\flutter_notebook_practice\build\multi_image_picker\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\afb4453007f5b4f5176f4af198c3c94f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\afb4453007f5b4f5176f4af198c3c94f\AndroidManifest.xml:20:5-44
+MERGED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:20:5-22:41
+MERGED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\840383e1d41e5d2d19b461f9fa985696\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\840383e1d41e5d2d19b461f9fa985696\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\41cc91e76141b49a18023b83e895753d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\41cc91e76141b49a18023b83e895753d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4ea912e81418cdba7d38f33aebf5a769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4ea912e81418cdba7d38f33aebf5a769\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\de5f264aeefcc460e3587704e3d6de57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\de5f264aeefcc460e3587704e3d6de57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ef9793261efa3dc05a2dff4c2d1b0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6ef9793261efa3dc05a2dff4c2d1b0e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f2598c8f6421d3cf2275acc9ca8dac5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f2598c8f6421d3cf2275acc9ca8dac5b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fb5de103b5c6955151aeb2ae57841785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fb5de103b5c6955151aeb2ae57841785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\26080eae4961195947b8e2782ff3690d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\26080eae4961195947b8e2782ff3690d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f7bcaf05c9722f3d2e864fa1ace679fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f7bcaf05c9722f3d2e864fa1ace679fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\703b90e1d65c60f128eb8476c13ccf45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\703b90e1d65c60f128eb8476c13ccf45\AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\750bafd7d33f6bb42b29e11b31264724\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.4.aar\750bafd7d33f6bb42b29e11b31264724\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\0b9cfeb0c633ea9749931a0761863db0\AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\library-1.0.2.aar\0b9cfeb0c633ea9749931a0761863db0\AndroidManifest.xml:3:5-72
+MERGED from [android.arch.lifecycle:runtime:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3672bfa500bb904913bda3873e7fd84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c3672bfa500bb904913bda3873e7fd84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a40769cce0878b90b2129527280f0474\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a40769cce0878b90b2129527280f0474\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\05818c0a4094b7741b5fb8e6d16f8a7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\05818c0a4094b7741b5fb8e6d16f8a7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\74d533321b315b1b7a41fb10dc75fd9a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\74d533321b315b1b7a41fb10dc75fd9a\AndroidManifest.xml:20:5-44
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		ADDED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+		INJECTED from G:\AndroidStudioProjects\flutter_notebook_practice\android\app\src\main\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] G:\AndroidStudioProjects\flutter_notebook_practice\build\url_launcher\intermediates\manifests\full\debug\AndroidManifest.xml:9:13-92
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:25:22-77
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:28:9-73
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:28:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:29:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:30:9-90
+	android:name
+		ADDED from [com.zhihu.android:matisse:0.5.1] H:\Users\45010\.gradle\caches\transforms-1\files-1.1\matisse-0.5.1.aar\435643ad6ae7fcf26e7765d3e30d8c94\AndroidManifest.xml:30:19-87
